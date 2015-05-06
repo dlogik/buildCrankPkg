@@ -34,3 +34,4 @@ nosetests.xml
 .project
 .pydevproject
 CrankD.pkg
+.DS_Store
